@@ -1,4 +1,4 @@
-# sgc-deploy-to-vercel
+# lov-deploy-to-vercel
 
 ![Version](https://img.shields.io/badge/version-2.0.2-CC785C)
 
@@ -9,7 +9,7 @@ Part of [skill-publisher/skills](https://example.com/skills/skills) — by [exam
 ## Install
 
 ```bash
-npx skills add skill-publisher/skills --skill sgc-deploy-to-vercel
+npx skills add skill-publisher/skills --skill lov-deploy-to-vercel
 ```
 
 Requires: `vercel` CLI, `curl`, `python3`
