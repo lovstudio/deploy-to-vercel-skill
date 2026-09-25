@@ -14,11 +14,11 @@ compatibility: >
   Cloudflare DNS auto-config requires CLOUDFLARE_API_KEY env var.
 metadata:
   author: contributors
-  version: "2.1.0"
+  version: "2.1.1"
   tags: deploy vercel cloudflare dns frontend
 ---
 
-# deploy-vercel — One-Command Frontend Deployment
+# Vercel 部署助手 · Vercel Deployer
 
 Deploy frontend projects to Vercel with automatic custom domain and DNS setup.
 
